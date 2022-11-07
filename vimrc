@@ -41,6 +41,9 @@ set hidden
 set nobomb            " no BOM(Byte Order Mark)
 set mouse=a
 
+" snipmate legacy parser warning
+let g:snipMate = { 'snippet_version' : 1 }
+
 "--------------
 " Filetype and Encoding
 "--------------
@@ -55,5 +58,3 @@ scriptencoding utf-8
 "--------------
 " key mapping
 "--------------
-let mapleader = ","
-
