@@ -53,3 +53,4 @@ scriptencoding utf-8
 "--------------
 " key mapping
 "--------------
+set tags+=~/.tags
