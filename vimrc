@@ -60,3 +60,7 @@ function! Formatonsave()
   py3f /usr/share/vim/addons/syntax/clang-format.py
 endfunction
 autocmd BufWritePre *.h,*.hpp,*.c,*.cc,*.cpp call Formatonsave()
+
+set backspace=indent,eol,start
+
+nnoremap <leader>d :bp<cr>:bd #<cr>
