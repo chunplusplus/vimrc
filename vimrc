@@ -54,3 +54,7 @@ scriptencoding utf-8
 " key mapping
 "--------------
 set tags+=~/.tags
+
+set backspace=indent,eol,start
+
+nnoremap <leader>d :bp<cr>:bd #<cr>
