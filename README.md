@@ -21,7 +21,7 @@
 先備份原本的 `.vimrc`、`.gvimrc` 以及 `.vim` 目錄，然後進行以下程序：
 
     $ cd ~
-    $ git clone https://github.com/chunplusplus/cch.git .vim
+    $ git clone https://github.com/chunplusplus/vimrc.git .vim
     $ ln -s .vim/vimrc .vimrc
     $ ln -s .vim/gvimrc .gvimrc
 
@@ -92,7 +92,8 @@ $ sh <(wget --no-check-certificate https://github.com/kaochenlong/cch/raw/master
 
 ### 字型
 
-- InputMonoNarrow <https://input.fontbureau.com>
+- --InputMonoNarrow <https://input.fontbureau.com>--
+- sudo apt install fonts-powerline <https://github.com/powerline/fonts>
 
 有任何問題，歡迎直接來信，或是直接在 GitHub 上給我發個 Issue 或 Pull Request :)
 
