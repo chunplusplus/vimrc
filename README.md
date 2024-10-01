@@ -92,7 +92,7 @@ $ sh <(wget --no-check-certificate https://github.com/kaochenlong/cch/raw/master
 
 ### 字型
 
-- --InputMonoNarrow <https://input.fontbureau.com>--
+- ~~InputMonoNarrow <https://input.fontbureau.com>~~
 - sudo apt install fonts-powerline <https://github.com/powerline/fonts>
 
 有任何問題，歡迎直接來信，或是直接在 GitHub 上給我發個 Issue 或 Pull Request :)
