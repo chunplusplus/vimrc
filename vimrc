@@ -24,6 +24,15 @@ call plug#begin('~/.vim/plugged')
 
   " for vue.js development
   Plug 'leafOfTree/vim-vue-plugin'
+
+  " for Typescript and React development
+  Plug 'pangloss/vim-javascript'
+  Plug 'leafgarland/typescript-vim'
+  Plug 'peitalin/vim-jsx-typescript'
+  Plug 'styled-components/vim-styled-components', { 'branch': 'main' }
+  Plug 'jparise/vim-graphql'
+
+  Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
 
 "--------------

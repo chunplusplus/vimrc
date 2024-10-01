@@ -99,3 +99,11 @@ $ sh <(wget --no-check-certificate https://github.com/kaochenlong/cch/raw/master
 
 by 高見龍 eddie@5xcampus.com
 
+### Upgrade Vim
+
+- sudo add-apt-repository ppa:jonathonf/vim <https://itsfoss.com/install-latest-vim-ubuntu/>
+
+### TypeScript and React Development
+
+- <https://thoughtbot.com/blog/modern-typescript-and-react-development-in-vim>
+
